@@ -5,14 +5,14 @@ import time
 
 class BotWhats:
     def __init__(self):
-        self.mensage=["Meu amor fiz um bot e ele te mandou essa mensagem pra te lembrar que Te amo!","Bom Dia"]
-        self.group=["Lívia Pitanguinha","Eu"]
+        self.mensage=["Bom dia"]
+        self.group=["Grupo01","Grupo02"]
         options = webdriver.ChromeOptions()
         options.add_argument('lang=pt-br')
         self.driver = webdriver.Chrome(executable_path=r'./chromedriver.exe')
     def SendMensage(self):
 
-        #< span  dir = "auto"   title = "Família Bezerra"  class ="_1wjpf _3NFp9 _3FXB1" > Família Bezerra < / span >
+        #< span  dir = "auto"   title = "Grupo01"  class ="_1wjpf _3NFp9 _3FXB1" > Família Bezerra < / span >
 
         #< div  tabindex = "-1"  class ="_1Plpp" > < div tabindex="-1" class ="_3F6QL _2WovP" >
         #<span data-icon="send" class="">
