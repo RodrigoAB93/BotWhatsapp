@@ -1,6 +1,8 @@
-# BotWhatsapp <img src="https://olhardigital.com.br/wp-content/uploads/2020/03/20200303042955.jpg" alt="Whats_logo" width="75px" />
+# BotWhatsapp <img src="https://olhardigital.com.br/wp-content/uploads/2020/03/20200303042955.jpg" alt="Whats_logo" width="75px" /> 
 
->Bot that sends messages to people in Whatsapp app.   
+[![HitCount](http://hits.dwyl.com/RodrigoAB93/BotWhatsapp.svg)](http://hits.dwyl.com/RodrigoAB93/BotWhatsapp) 
+
+>Bot that sends messages to people in Whatsapp app.    
 
 >Using python and chrome web drive to send messages.
 
