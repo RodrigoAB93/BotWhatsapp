@@ -1,8 +1,23 @@
-# BotWhatsapp <img src="https://olhardigital.com.br/wp-content/uploads/2020/03/20200303042955.jpg" alt="Whats_logo" width="75px" /> 
+# BotWhatsapp  
+
+<p align="center">
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-execute">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
+</p>
 
 
+## 🚀 Tecnologias
 
->Bot that sends messages to people in Whatsapp app.    
+<p id="tecnologias">Esse projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
+
+- [Python](https://www.python.org/)
+
+
+## 💻 Projeto
+
+<p id="projeto">Bot that sends messages to people in Whatsapp app.</p> 
 
 >Using python and chrome web drive to send messages.
 
@@ -11,10 +26,17 @@
 
 # How execute 
 
-> Download the code 
->Open the code in terminal or bash and run using: 
+> <p id="how-execute">Download the code</p>
+> <p>Open the code in terminal or bash and run using:</p>
   ```py.exe Bot.py```
   
 **Remember in Windows computer is required python in environment variables.**
 
 *_Success✔_*
+
+## 📝 Licença
+
+<p id="licença">Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.</p>
+---
+
+<p align="center">Desenvolvido com 💙 por Rodrigo Almeida Bezerra</p>
