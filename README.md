@@ -12,7 +12,8 @@
 
 <p id="tecnologias">Esse projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
 
-- [Python](https://www.python.org/)
+- [Python](https://www.python.org/) 
+- [Chrome Web Driver](https://chromedriver.chromium.org/downloads) 
 
 
 ## 💻 Projeto
